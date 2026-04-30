@@ -1,8 +1,8 @@
 # Random Quote Generator
 
-**Автор:** [Аманнепесов Семен]
+**Автор:** [Шпет Роман]
 
-**Дата:** [2026-04-2026]
+**Дата:** [2026-04-30]
 
 ## Описание
 
@@ -29,4 +29,4 @@
 ### Инструкция по запуску
 1. Клонируйте репозиторий:
    ```bash
-   git clone <URL-репозитория>
+   git clone <[URL-репозитория](https://github.com/ShpetRoman/Random-Quote-Generator-/blob/main/main.py)>
